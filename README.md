@@ -1,1 +1,1 @@
-# redis-redux-weather
+# react-redux-weather
